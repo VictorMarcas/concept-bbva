@@ -7,10 +7,10 @@ Project in HTML, CSS (TailwindCSS)
 ``
   npm i
 ``
-### Compile assets
+### Run Project
 
 ``
-  npm run dev
+  npm run serve
 ``
 ### Reference:
 [Banking APP - @ramirowao](https://www.figma.com/@ramirowao)
